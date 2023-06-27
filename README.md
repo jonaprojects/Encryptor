@@ -1,5 +1,5 @@
 # Encryptor
-A basic ransomware software.
+A basic ransomware software demo for educational purposes
 
 
 Work in progress!
