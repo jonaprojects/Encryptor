@@ -1,5 +1,5 @@
 # Encryptor
-A basic ransomware software demo for educational purposes
+A basic ransomware software demo for educational purposes.
 
 
 Work in progress!
